@@ -67,7 +67,7 @@ A public repository is visible to anyone, making it ideal for open-source projec
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 **Answer:**
-- Forking a repository on GitHub creates a personal copy of the original repository under your own GitHub account. it allows using the project without affecting the original project.
+- Forking a repository on GitHub creates a personal copy of the original repository under your own GitHub account. It allows using the project without affecting the original project.
 
  - Forking: Creates a new, independent copy of the repository on GitHub that is linked to the original.
    Changes are made in your copy, and you can propose changes back to the original through pull requests. **while** Cloning: Creates a local copy of a repository on your computer. It doesn’t create a new repository on GitHub; it's just for local development.
